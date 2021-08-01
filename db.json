@@ -1,5 +1,5 @@
 {
-    "books": [
+    "book": [
         {
             "_id": 101,
             "title": "Northanger Abbey",
@@ -105,7 +105,7 @@
             "isbn": "9780345339706"
         }
     ],
-    "authors": [
+    "author": [
         {
             "id": 201,
             "first_name": "Jane",
@@ -249,7 +249,7 @@
             "gender": "F"
         }
     ],
-    "client_book": [
+    "client-book": [
         {
             "_id": 401,
             "book_id": 101,
