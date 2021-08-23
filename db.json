@@ -1,296 +1,44 @@
 {
-    "book": [
+    "hero": [
         {
-            "_id": 101,
-            "title": "Northanger Abbey",
-            "author": 201,
-            "year_written": 1814,
-            "edition": "Penguin",
-            "isbn": "9780141439792"
+          "id": 11,
+          "name": "Dr Nice"
         },
         {
-            "_id": 102,
-            "title": "War and Peace",
-            "author": 202,
-            "year_written": 1865,
-            "edition": "Penguin",
-            "isbn": "9780140440638"
+          "id": 12,
+          "name": "Narco"
         },
         {
-            "_id": 103,
-            "title": "Anna Karenina",
-            "author": 202,
-            "year_written": 1875,
-            "edition": "Penguin",
-            "isbn": "9780143035008"
+          "id": 13,
+          "name": "Bombasto"
         },
         {
-            "_id": 104,
-            "title": "Mrs. Dalloway",
-            "author": 203,
-            "year_written": 1925,
-            "edition": "Harcourt Brace",
-            "isbn": "9780156628631"
+          "id": 14,
+          "name": "Celeritas"
         },
         {
-            "_id": 105,
-            "title": "The Hours",
-            "author": 204,
-            "year_written": 1998,
-            "edition": " Farrar, Straus and Giroux",
-            "isbn": "9780374172893"
+          "id": 15,
+          "name": "Magneta"
         },
         {
-            "_id": 106,
-            "title": "The Adventures of Huckeberry Finn",
-            "author": 205,
-            "year_written": 1865,
-            "edition": "Penguin",
-            "isbn": "9780140430189"
+          "id": 16,
+          "name": "RubberMan"
         },
         {
-            "_id": 107,
-            "title": "Bleak House",
-            "author": 206,
-            "year_written": 1870,
-            "edition": "Norton",
-            "isbn": "9780393043747"
+          "id": 17,
+          "name": "Dynama"
         },
         {
-            "_id": 108,
-            "title": "The Adventures of Tom Sawyer",
-            "author": 205,
-            "year_written": 1862,
-            "edition": "Penguin",
-            "isbn": "9780140620528"
+          "id": 18,
+          "name": "Dr IQ"
         },
         {
-            "_id": 109,
-            "title": "A Room of One's Own",
-            "author": 203,
-            "year_written": 1922,
-            "edition": "Penguin",
-            "isbn": "9780140004816"
+          "id": 19,
+          "name": "Magma"
         },
         {
-            "_id": 110,
-            "title": "Harry Potter",
-            "author": 207,
-            "year_written": 2000,
-            "edition": "Scholastic",
-            "isbn": "9780590353427"
-        },
-        {
-            "_id": 111,
-            "title": "One Hundred Years of Solitude",
-            "author": 208,
-            "year_written": 1967,
-            "edition": "Harper Perennial",
-            "isbn": "9780060929794"
-        },
-        {
-            "_id": 112,
-            "title": "Hamlet, Prince of Denmark",
-            "author": 209,
-            "year_written": 1603,
-            "edition": "Signet Classics",
-            "isbn": "9780451521286"
-        },
-        {
-            "_id": 113,
-            "title": "The Fellowship of the Ring (The Lord of the Rings, Part 1)",
-            "author": "Tolkien, J.R.",
-            "year_written": 1937,
-            "edition": "Del Rey",
-            "isbn": "9780345339706"
+          "id": 20,
+          "name": "Tornado"
         }
-    ],
-    "author": [
-        {
-            "id": 201,
-            "first_name": "Jane",
-            "last_name": "Austen",
-            "birth_date": "1775-12-16T00:00:00Z"
-        },
-        {
-            "id": 202,
-            "first_name": "Leo",
-            "last_name": "Tolstoy",
-            "birth_date": "1828-11-20T00:00:00Z"
-        },
-        {
-            "id": 203,
-            "first_name": "Virginia",
-            "last_name": "Woolf",
-            "birth_date": "1882-01-25T00:00:00Z"
-        },
-        {
-            "id": 204,
-            "first_name": "Michael",
-            "last_name": "Cunnningham",
-            "birth_date": "1952-11-06T00:00:00Z"
-        },
-        {
-            "id": 205,
-            "first_name": "Mark",
-            "last_name": "Twain",
-            "birth_date": "1835-11-30T00:00:00Z"
-        },
-        {
-            "id": 206,
-            "first_name": "Charles",
-            "last_name": "Dickens",
-            "birth_date": "1812-02-07T00:00:00Z"
-        },
-        {
-            "id": 207,
-            "first_name": "Joanne K.",
-            "last_name": "Rowling",
-            "birth_date": "1965-07-31T00:00:00Z"
-        },
-        {
-            "id": 208,
-            "first_name": "Gabriel",
-            "last_name": "García Márquez",
-            "birth_date": "1927-03-06T00:00:00Z"
-        },
-        {
-            "id": 209,
-            "first_name": "William",
-            "last_name": "Shakespeare",
-            "birth_date": "1564-04-26T00:00:00Z"
-        },
-        {
-            "id": 210,
-            "first_name": "John Ronald Reuel",
-            "last_name": "Tolkien",
-            "birth_date": "1892-01-03T00:00:00Z"
-        }
-    ],
-    "client": [
-        {
-            "_id": 301,
-            "first_name": "Sissy",
-            "last_name": "Teresa",
-            "email": "steresa0@godaddy.com",
-            "phone": "+7 568 539 3925",
-            "gender": "F"
-        },
-        {
-            "_id": 302,
-            "first_name": "Isac",
-            "last_name": "Jindracek",
-            "email": "ijindracek1@scientificamerican.com",
-            "phone": "+84 460 449 0027",
-            "gender": "M"
-        },
-        {
-            "_id": 303,
-            "first_name": "Sabra",
-            "last_name": "Giovannetti",
-            "email": "sgiovannetti2@drupal.org",
-            "phone": "+7 979 525 6992",
-            "gender": "F"
-        },
-        {
-            "_id": 304,
-            "first_name": "Kipper",
-            "last_name": "Jenkison",
-            "email": "kjenkison3@huffingtonpost.com",
-            "phone": "+63 860 374 1158",
-            "gender": "M"
-        },
-        {
-            "_id": 305,
-            "first_name": "Carmel",
-            "last_name": "Sealeaf",
-            "email": "csealeaf4@opera.com",
-            "phone": "+7 226 380 6404",
-            "gender": "F"
-        },
-        {
-            "_id": 306,
-            "first_name": "Augusto",
-            "last_name": "Marmion",
-            "email": "amarmion5@skype.com",
-            "phone": "+86 693 855 3322",
-            "gender": "M"
-        },
-        {
-            "_id": 307,
-            "first_name": "Timoteo",
-            "last_name": "MacCaughen",
-            "email": "tmaccaughen6@yellowbook.com",
-            "phone": "+86 664 726 6354",
-            "gender": "M"
-        },
-        {
-            "_id": 308,
-            "first_name": "Oates",
-            "last_name": "Ricardet",
-            "email": "oricardet7@home.pl",
-            "phone": "+55 585 549 3248",
-            "gender": "M"
-        },
-        {
-            "_id": 309,
-            "first_name": "Bobbe",
-            "last_name": "Gerin",
-            "email": "bgerin8@discuz.net",
-            "phone": "+1 213 582 5494",
-            "gender": "F"
-        },
-        {
-            "_id": 310,
-            "first_name": "Caty",
-            "last_name": "Sawood",
-            "email": "csawood9@spiegel.de",
-            "phone": "+63 148 609 5794",
-            "gender": "F"
-        }
-    ],
-    "client-book": [
-        {
-            "_id": 401,
-            "book_id": 101,
-            "client_id": 301,
-            "date_borrowed": "2021-04-12T04:13:14Z",
-            "return_date": "2021-07-01T07:43:19Z"
-        },
-        {
-            "_id": 402,
-            "book_id": 102,
-            "client_id": 302,
-            "date_borrowed": "2021-03-23T06:02:09Z",
-            "return_date": "2021-05-25T15:54:56Z"
-        },
-        {
-            "_id": 403,
-            "book_id": 103,
-            "client_id": 302,
-            "date_borrowed": "2021-03-18T10:16:26Z",
-            "return_date": "2021-06-11T05:18:53Z"
-        },
-        {
-            "_id": 404,
-            "book_id": 104,
-            "client_id": 307,
-            "date_borrowed": "2021-01-08T08:12:30Z",
-            "return_date": "2021-08-28T15:41:25Z"
-        },
-        {
-            "_id": 405,
-            "book_id": 105,
-            "client_id": 305,
-            "date_borrowed": "2021-04-16T13:16:09Z",
-            "return_date": "2021-08-26T10:36:16Z"
-        },
-        {
-            "_id": 406,
-            "book_id": 111,
-            "client_id": 302,
-            "date_borrowed": "2021-05-20T23:56:35Z",
-            "return_date": "2021-08-24T09:25:07Z"
-        }
-    ]
+  ]
 }
